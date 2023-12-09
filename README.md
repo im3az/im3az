@@ -58,3 +58,17 @@ I'm a passionate junior front-end developer with a love for React and Tailwind, 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,react,tailwind,vscode,nodejs,express)](https://skillicons.dev)
 
+</br>
+
+## :mailbox: Reach me out
+
+<br />
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/imtiaz-chowdhury-7973a22a4/">
+    <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png" alt="LinkedIn Profile">
+  </a>
+</p>
+
+<br />
+
