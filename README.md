@@ -65,7 +65,7 @@ I'm a passionate junior front-end developer with a love for React and Tailwind, 
 <br />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/imtiaz-chowdhury-7973a22a4/">
+  <a href="[https://www.linkedin.com/in/imtiaz-chowdhury-7973a22a4/](https://www.linkedin.com/in/im3azchowdhury)">
     <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png" alt="LinkedIn Profile">
   </a>
 </p>
