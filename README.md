@@ -56,7 +56,7 @@ I'm a passionate junior front-end developer with a love for React and Tailwind, 
 
 </br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,react,tailwind,vscode,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,react,ts,tailwind,vscode,nodejs,express)](https://skillicons.dev)
 
 </br>
 
