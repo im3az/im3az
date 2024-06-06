@@ -17,7 +17,8 @@ I'm a passionate junior front-end developer with a love for React and Tailwind, 
 
 </br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=im3az&theme=nightfox)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=im3az&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=520&card_height=185)](https://git.io/streak-stats)
 
 </br>
 
