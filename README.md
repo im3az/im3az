@@ -16,7 +16,7 @@ I'm a passionate junior front-end developer with a love for React and Tailwind, 
 - 🌱 I’m currently learning - NextJs.
 - 👯 I’m looking to collaborate on - open source projects.
 - 🤔 I’m looking for help with - Typescript.
-- ⚡ Fun fact: - The first-ever website, created by Tim Berners-Lee in 1991, is still online! You can visit it [here](http://info.cern.ch).
+- ⚡ Fun fact: - The first-ever [website](http://info.cern.ch), created by Tim Berners-Lee in 1991, is still online!
 
 ## :black_nib: Summary
 
